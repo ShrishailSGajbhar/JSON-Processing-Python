@@ -1,0 +1,236 @@
+[
+  {
+    "TITLE":"Empire Burlesque",
+    "ARTIST":"Bob Dylan",
+    "COUNTRY":"USA",
+    "COMPANY":"Columbia",
+    "PRICE":5.45,
+    "YEAR":1985,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Hide your heart",
+    "ARTIST":"Bonnie Tyler",
+    "COUNTRY":"UK",
+    "COMPANY":"CBS Records",
+    "PRICE":4.95,
+    "YEAR":1988,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Greatest Hits",
+    "ARTIST":"Dolly Parton",
+    "COUNTRY":"USA",
+    "COMPANY":"RCA",
+    "PRICE":4.95,
+    "YEAR":1982,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Still got the blues",
+    "ARTIST":"Gary Moore",
+    "COUNTRY":"UK",
+    "COMPANY":"Virgin records",
+    "PRICE":5.1,
+    "YEAR":1990,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Eros",
+    "ARTIST":"Eros Ramazzotti",
+    "COUNTRY":"EU",
+    "COMPANY":"BMG",
+    "PRICE":4.95,
+    "YEAR":1997,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"One night only",
+    "ARTIST":"Bee Gees",
+    "COUNTRY":"UK",
+    "COMPANY":"Polydor",
+    "PRICE":5.45,
+    "YEAR":1998,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Sylvias Mother",
+    "ARTIST":"Dr.Hook",
+    "COUNTRY":"UK",
+    "COMPANY":"CBS",
+    "PRICE":4.05,
+    "YEAR":1973,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Maggie May",
+    "ARTIST":"Rod Stewart",
+    "COUNTRY":"UK",
+    "COMPANY":"Pickwick",
+    "PRICE":4.25,
+    "YEAR":1990,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Romanza",
+    "ARTIST":"Andrea Bocelli",
+    "COUNTRY":"EU",
+    "COMPANY":"Polydor",
+    "PRICE":5.4,
+    "YEAR":1996,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"When a man loves a woman",
+    "ARTIST":"Percy Sledge",
+    "COUNTRY":"USA",
+    "COMPANY":"Atlantic",
+    "PRICE":4.35,
+    "YEAR":1987,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Black angel",
+    "ARTIST":"Savage Rose",
+    "COUNTRY":"EU",
+    "COMPANY":"Mega",
+    "PRICE":5.45,
+    "YEAR":1995,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"1999 Grammy Nominees",
+    "ARTIST":"Many",
+    "COUNTRY":"USA",
+    "COMPANY":"Grammy",
+    "PRICE":5.1,
+    "YEAR":1999,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"For the good times",
+    "ARTIST":"Kenny Rogers",
+    "COUNTRY":"UK",
+    "COMPANY":"Mucik Master",
+    "PRICE":4.35,
+    "YEAR":1995,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Big Willie style",
+    "ARTIST":"Will Smith",
+    "COUNTRY":"USA",
+    "COMPANY":"Columbia",
+    "PRICE":4.95,
+    "YEAR":1997,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Tupelo Honey",
+    "ARTIST":"Van Morrison",
+    "COUNTRY":"UK",
+    "COMPANY":"Polydor",
+    "PRICE":4.1,
+    "YEAR":1971,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Soulsville",
+    "ARTIST":"Jorn Hoel",
+    "COUNTRY":"Norway",
+    "COMPANY":"WEA",
+    "PRICE":3.95,
+    "YEAR":1996,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"The very best of",
+    "ARTIST":"Cat Stevens",
+    "COUNTRY":"UK",
+    "COMPANY":"Island",
+    "PRICE":4.45,
+    "YEAR":1990,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Stop",
+    "ARTIST":"Sam Brown",
+    "COUNTRY":"UK",
+    "COMPANY":"A and M",
+    "PRICE":4.45,
+    "YEAR":1988,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Bridge of Spies",
+    "ARTIST":"T'Pau",
+    "COUNTRY":"UK",
+    "COMPANY":"Siren",
+    "PRICE":3.95,
+    "YEAR":1987,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Private Dancer",
+    "ARTIST":"Tina Turner",
+    "COUNTRY":"UK",
+    "COMPANY":"Capitol",
+    "PRICE":4.45,
+    "YEAR":1983,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Midt om natten",
+    "ARTIST":"Kim Larsen",
+    "COUNTRY":"EU",
+    "COMPANY":"Medley",
+    "PRICE":3.9,
+    "YEAR":1983,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Pavarotti Gala Concert",
+    "ARTIST":"Luciano Pavarotti",
+    "COUNTRY":"UK",
+    "COMPANY":"DECCA",
+    "PRICE":4.95,
+    "YEAR":1991,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"The dock of the bay",
+    "ARTIST":"Otis Redding",
+    "COUNTRY":"USA",
+    "COMPANY":"Stax Records",
+    "PRICE":3.95,
+    "YEAR":1968,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Picture book",
+    "ARTIST":"Simply Red",
+    "COUNTRY":"EU",
+    "COMPANY":"Elektra",
+    "PRICE":3.6,
+    "YEAR":1985,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Red",
+    "ARTIST":"The Communards",
+    "COUNTRY":"UK",
+    "COMPANY":"London",
+    "PRICE":3.9,
+    "YEAR":1987,
+    "Today":1682982665917
+  },
+  {
+    "TITLE":"Unchain my heart",
+    "ARTIST":"Joe Cocker",
+    "COUNTRY":"USA",
+    "COMPANY":"EMI",
+    "PRICE":4.1,
+    "YEAR":1987,
+    "Today":1682982665917
+  }
+]
